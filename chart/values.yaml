@@ -65,7 +65,7 @@ git:
   # @param {object} toRepo Parameters section for Git repository that will be created by Krateo
   toRepo:
     # @param {string} name Name for the target Git repository
-    name: test-diego-8
+    name: test-diego-9
     # @param {string} [branch] Branch for the target Git repository
     branch: main
     # @param {object} [credentials] References to the secrets that contain the credentials required to push the content the repository (in case of private ones)
